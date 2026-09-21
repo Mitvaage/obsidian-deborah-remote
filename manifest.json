@@ -1,0 +1,9 @@
+{
+  "id": "deborah-remote",
+  "name": "Deborah Remote",
+  "version": "0.4.0",
+  "minAppVersion": "1.4.0",
+  "description": "Live Claude-session stream inside Obsidian + a tailnet remote-control channel that lets d2 open notes, flip Reading mode, run commands, and edit the vault. Tailnet-only, bearer-gated.",
+  "author": "Sebastian Gerhardt / Deborah",
+  "isDesktopOnly": false
+}
